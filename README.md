@@ -6,3 +6,4 @@
 <code>📦 Tech stack: swift, iOS SDK, UIKit, SwiftUI</code>
 <code>💬 telegram: [@dyachaliin](https://telegram.me/dyachaliin)</code>
 <code>📫 [email](dyachaliin@gmail.com)</code>
+<code>💬 LinkedIn: [dyachaliin](https://www.linkedin.com/in/dyachaliin/)</code>
