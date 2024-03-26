@@ -1,5 +1,5 @@
 <code>🎓 Student: KPI / IP-05</code>
-<code>⚪ Company: [SMISS](https://smissltd.com)</code>
+<code>⚪ Company: [MacPaw](https://macpaw.com)</code>
 <code>👷 Speciality: Software engineer / iOS Developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: Swift</code>
